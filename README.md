@@ -82,3 +82,7 @@ https://medium.com/harrythegreat/oh-my-zsh-iterm2%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB
 
 
 ```
+
+- [ ] Golang, NVM
+- [ ] Karabiner, Fig
+- [ ] Terraform, Ansible

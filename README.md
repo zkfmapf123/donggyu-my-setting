@@ -2,8 +2,8 @@
 
 ## 1. 기본 Tools 환경 구축하기
 
-[1](./software.setting.md)
+[소프트웨어 세팅](./software.setting.md
 
 ## 2. Lang 환경 구축하기
 
-[2](./lang.setting.md)
+[Language 세팅](./lang.setting.md) 

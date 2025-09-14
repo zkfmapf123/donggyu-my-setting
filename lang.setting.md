@@ -52,19 +52,20 @@
 	    autocrlf = input
     [diff] (add)
 	    tool = vscode
-    [difftool "vscode"] (add)
+    [difftool "vscode"] 
 	    cmd = code --wait --diff $LOCAL $REMOTE
     [filter "lfs"]
 	    required = true
 	    clean = git-lfs clean -- %f
 	    smudge = git-lfs smudge -- %f
 	    process = git-lfs filter-process
-    [merge] (add)
+    [merge] 
 	    tool = vscode
-    [mergetool "vscode"] (add)
+    [mergetool "vscode"] 
 	    cmd = code --wait $MERGED
     [alias]
 	    st = status
+        s = switch
 	    hist = log --graph --all --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(white)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --date=short
 ```
 

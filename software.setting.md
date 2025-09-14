@@ -23,6 +23,9 @@
 
 - <a href="https://cultpd.com/6134">karabiner key setting</a>
 
+- ~/.config/karabiner
+- [karabiner json](./public/karabiner.json)
+
 ## Iterms Setting
 
 - <a href="https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec"> Iterms Setting Site </a>

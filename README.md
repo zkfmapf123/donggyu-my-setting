@@ -7,3 +7,11 @@
 ## 2. Lang 환경 구축하기
 
 [Language 세팅](./lang.setting.md) 
+
+## 3. Claude 세팅
+
+- mac claude bar
+
+```sh
+brew install --cask claudebar
+```

@@ -39,7 +39,7 @@
      
     git config --global alias.hist "log --graph --all --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(white)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --date=short"
 
-    ## git config global -e
+    ## git config --global -e
 
     [user]
 	    name = ""
